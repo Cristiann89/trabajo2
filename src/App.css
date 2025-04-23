@@ -1,3 +1,12 @@
 .pad{
-    
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width: 240px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 30px ;
+    background-color: pink;
+    box-shadow: 1px 3px 6px 1px black;
+
 }
